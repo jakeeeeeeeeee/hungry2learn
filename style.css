@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body
+{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 100%;
+    font-family: 'Montserrat', sans-serif !important;
+    background-color: gray;
+}
+.container{
+    max-width: 100%;
+    padding: 0;
+}
+.form-control
+{
+    max-width: 500px;
+    
+}
+body li
+{
+    list-style-type: none;
+    
+}
+.wrap
+{
+    max-width: 1250px;
+    margin: 0 auto;
+    
+}
+.prod_info
+{
+
+    margin: 5px;
+}
+.table
+{
+    font-size: 15px;
+    table-layout: inherit;
+}
+
